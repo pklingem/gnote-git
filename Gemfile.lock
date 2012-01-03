@@ -1,0 +1,13 @@
+GEM
+  specs:
+    activesupport (3.1.1)
+      multi_json (~> 1.0)
+    git (1.2.5)
+    multi_json (1.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport
+  git
